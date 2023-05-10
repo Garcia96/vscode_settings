@@ -1,0 +1,20 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.colorTheme": "One Dark Pro Mix",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "workbench.editor.showTabs": false,
+  "workbench.statusBar.visible": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.glyphMargin": false,
+  "editor.guides.indentation": false,
+  "indenticator.width": 0.1,
+  "indenticator.color.dark": "rgba(255,255,255,0.2)",
+  "breadcrumbs.enabled": false,
+  "files.autoSave": "onWindowChange",
+  "window.zoomLevel": 1
+}
